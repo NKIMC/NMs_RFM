@@ -112,21 +112,3 @@
 [Architectury Transformer DEBUG]  - C:\Users\mimic\IdeaProjects\rfm\.gradle\loom-cache\remapped_mods\loom_mappings_1_20_6_layered_hash_40545_v2\net\fabricmc\fabric-api\fabric-resource-loader-v0\1.1.0+c0e5481fb0\fabric-resource-loader-v0-1.1.0+c0e5481fb0.jar
 [Architectury Transformer DEBUG]  - C:\Users\mimic\IdeaProjects\rfm\.gradle\loom-cache\remapped_mods\loom_mappings_1_20_6_layered_hash_40545_v2\net\fabricmc\fabric-api\fabric-sound-api-v1\1.0.21+c5fc38b3b0\fabric-sound-api-v1-1.0.21+c5fc38b3b0.jar
 [Architectury Transformer DEBUG]  - C:\Users\mimic\IdeaProjects\rfm\.gradle\loom-cache\remapped_mods\loom_mappings_1_20_6_layered_hash_40545_v2\net\fabricmc\fabric-api\fabric-transitive-access-wideners-v1\6.0.10+74e2f560b0\fabric-transitive-access-wideners-v1-6.0.10+74e2f560b0.jar
-[Architectury Transformer] Read classpath in 1.322 s
-[Architectury Transformer DEBUG] Closed File Systems for C:\Users\mimic\IdeaProjects\rfm\common\build\devlibs\rfm-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from C:\Users\mimic\IdeaProjects\rfm\common\build\devlibs\rfm-common-1.0.0-dev.jar to C:\Users\mimic\AppData\Local\Temp\1302246853028777248.jar: 
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@fad74ee
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@1a1d6a08
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@37d31475
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@27808f31
-[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@436e852b
-[Architectury Transformer DEBUG] Transforming from C:\Users\mimic\IdeaProjects\rfm\common\build\devlibs\rfm-common-1.0.0-dev.jar to C:\Users\mimic\AppData\Local\Temp\1302246853028777248.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing dev/newkini/ExampleMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Checking whether /rfm.mixins.json is a mixin config.
-[Architectury Transformer DEBUG] Closed File Systems for C:\Users\mimic\AppData\Local\Temp\1302246853028777248.jar
-[Architectury Transformer] Listening at C:\Users\mimic\IdeaProjects\rfm\common\build\devlibs\rfm-common-1.0.0-dev.jar
-[Architectury Transformer DEBUG] Transforming from dev/newkini/ExampleMod.class to dev/newkini/ExampleMod.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing dev/newkini/ExampleMod with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed dev/newkini/ExampleMod in 1.362 ms

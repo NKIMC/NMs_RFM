@@ -1,5 +1,6 @@
 {
-  "rfm.tab.item": "NM's Rfm Items",
-
-  "rfm.item.tomato": "Tomato"
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "rfm:item/tomato"
+  }
 }
