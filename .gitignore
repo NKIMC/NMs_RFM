@@ -191,7 +191,7 @@ build/
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,macos,windows
 .gradle
-./*/.gradle
-./*/build
-./*/run
+*/.gradle
+*/build
+*/run
 .idea
