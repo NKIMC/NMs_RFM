@@ -15,6 +15,9 @@
 
   "environment": "*",
   "entrypoints": {
+    "fabric-datagen": [
+      "dev.newkini.fabric.FabricDataGenerators"
+    ],
     "main": [
       "dev.newkini.fabric.RfmFabric"
     ],

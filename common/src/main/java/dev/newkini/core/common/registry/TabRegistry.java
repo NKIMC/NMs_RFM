@@ -8,6 +8,7 @@ import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.level.ItemLike;
 
 public class TabRegistry {
     public static final DeferredRegister<CreativeModeTab> TABS = DeferredRegister.create(Rfm.MOD_ID, Registries.CREATIVE_MODE_TAB);
@@ -24,7 +25,7 @@ public class TabRegistry {
             "rfm_block",
             () -> CreativeTabRegistry.create(
                     Component.translatable("tab.rfm.block"),
-                    () -> new ItemStack(ItemRegistry.FIRE_PIT)
+                    () -> new ItemStack((ItemLike) BlockRegistry.FIRE_PIT)
             )
     );
 

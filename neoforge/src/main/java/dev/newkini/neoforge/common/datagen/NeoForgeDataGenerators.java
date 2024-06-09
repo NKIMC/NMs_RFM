@@ -1,4 +1,4 @@
-package dev.newkini.core.common.datagen;
+package dev.newkini.neoforge.common.datagen;
 
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.DataGenerator;
@@ -19,6 +19,6 @@ public class NeoForgeDataGenerators {
         PackOutput packOutput = generator.getPackOutput();
         CompletableFuture<HolderLookup.Provider> lookupProvider = event.getLookupProvider();
 
-        generator.addProvider(event.includeServer(), ModLootTableProvider.create(packOutput, lookupProvider));
+//        generator.addProvider(event.includeServer(), ModLootTableProvider.create(packOutput, lookupProvider));
     }
 }

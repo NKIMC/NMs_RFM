@@ -112,3 +112,49 @@
 [Architectury Transformer DEBUG]  - C:\Users\mimic\IdeaProjects\rfm\.gradle\loom-cache\remapped_mods\loom_mappings_1_20_6_layered_hash_40545_v2\net\fabricmc\fabric-api\fabric-resource-loader-v0\1.1.0+c0e5481fb0\fabric-resource-loader-v0-1.1.0+c0e5481fb0.jar
 [Architectury Transformer DEBUG]  - C:\Users\mimic\IdeaProjects\rfm\.gradle\loom-cache\remapped_mods\loom_mappings_1_20_6_layered_hash_40545_v2\net\fabricmc\fabric-api\fabric-sound-api-v1\1.0.21+c5fc38b3b0\fabric-sound-api-v1-1.0.21+c5fc38b3b0.jar
 [Architectury Transformer DEBUG]  - C:\Users\mimic\IdeaProjects\rfm\.gradle\loom-cache\remapped_mods\loom_mappings_1_20_6_layered_hash_40545_v2\net\fabricmc\fabric-api\fabric-transitive-access-wideners-v1\6.0.10+74e2f560b0\fabric-transitive-access-wideners-v1-6.0.10+74e2f560b0.jar
+[Architectury Transformer] Read classpath in 1.296 s
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\mimic\IdeaProjects\rfm\common\build\devlibs\rfm-common-1.0.0-dev.jar
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from C:\Users\mimic\IdeaProjects\rfm\common\build\devlibs\rfm-common-1.0.0-dev.jar to C:\Users\mimic\AppData\Local\Temp\5161808296721637165.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@491cc5c9
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@74ad1f1f
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@6a1aab78
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@462d5aee
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@69b0fd6f
+[Architectury Transformer DEBUG] Transforming from C:\Users\mimic\IdeaProjects\rfm\common\build\devlibs\rfm-common-1.0.0-dev.jar to C:\Users\mimic\AppData\Local\Temp\5161808296721637165.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing dev/newkini/core/common/block/entity/machine/FirePitEntity with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing dev/newkini/core/common/block/machine/FirePitBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing dev/newkini/core/common/datagen/ModBlockLootTables with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing dev/newkini/core/common/registry/BlockEntityRegistry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing dev/newkini/core/common/registry/BlockRegistry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing dev/newkini/core/common/registry/FoodRegistry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing dev/newkini/core/common/registry/ItemRegistry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing dev/newkini/core/common/registry/TabRegistry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing dev/newkini/Rfm with maxs=true frames=true
+[Architectury Transformer DEBUG] Checking whether /rfm.mixins.json is a mixin config.
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\mimic\AppData\Local\Temp\5161808296721637165.jar
+[Architectury Transformer] Listening at C:\Users\mimic\IdeaProjects\rfm\common\build\devlibs\rfm-common-1.0.0-dev.jar
+[Architectury Transformer DEBUG] Transforming from dev/newkini/Rfm.class to dev/newkini/Rfm.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing dev/newkini/Rfm with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed dev/newkini/Rfm in 1.140 ms
+[Architectury Transformer DEBUG] Transforming from dev/newkini/core/common/registry/BlockRegistry.class to dev/newkini/core/common/registry/BlockRegistry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing dev/newkini/core/common/registry/BlockRegistry with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed dev/newkini/core/common/registry/BlockRegistry in 965.3 μs
+[Architectury Transformer DEBUG] Transforming from dev/newkini/core/common/block/machine/FirePitBlock.class to dev/newkini/core/common/block/machine/FirePitBlock.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing dev/newkini/core/common/block/machine/FirePitBlock with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed dev/newkini/core/common/block/machine/FirePitBlock in 739.0 μs
+[Architectury Transformer DEBUG] Transforming from dev/newkini/core/common/registry/ItemRegistry.class to dev/newkini/core/common/registry/ItemRegistry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing dev/newkini/core/common/registry/ItemRegistry with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed dev/newkini/core/common/registry/ItemRegistry in 694.3 μs
+[Architectury Transformer DEBUG] Transforming from dev/newkini/core/common/registry/TabRegistry.class to dev/newkini/core/common/registry/TabRegistry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing dev/newkini/core/common/registry/TabRegistry with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed dev/newkini/core/common/registry/TabRegistry in 757.3 μs
+[Architectury Transformer DEBUG] Transforming from dev/newkini/core/common/registry/FoodRegistry.class to dev/newkini/core/common/registry/FoodRegistry.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing dev/newkini/core/common/registry/FoodRegistry with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed dev/newkini/core/common/registry/FoodRegistry in 637.3 μs
