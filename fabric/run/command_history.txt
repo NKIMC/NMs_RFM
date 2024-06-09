@@ -1,7 +1,0 @@
-/give Player982 rfm:tomato
-/effect give Player76 minecraft:hunger infinite 100 true
-/give Player231 rfm:favorite_ore
-/give Player231 rfm:fire_pit
-/time set day
-/effect clear
-/time set day
