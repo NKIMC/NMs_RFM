@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "farmland",
-		"particle": "farmland"
+		"0": "rfm:block/farmland",
+		"particle": "rfm:block/farmland"
 	},
 	"elements": [
 		{
