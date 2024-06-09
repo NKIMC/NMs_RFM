@@ -12,14 +12,14 @@
     "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
   "license": "CC0-1.0",
-  "icon": "assets/rfm/icon.png",
+
   "environment": "*",
   "entrypoints": {
     "main": [
-      "dev.newkini.fabric.ExampleModFabric"
+      "dev.newkini.fabric.RfmFabric"
     ],
     "client": [
-      "dev.newkini.fabric.client.ExampleModFabricClient"
+      "dev.newkini.fabric.client.RfmFabricClient"
     ]
   },
   "mixins": [

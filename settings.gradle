@@ -7,7 +7,7 @@ pluginManagement {
     }
 }
 
-rootProject.name = 'rfm'
+rootProject.name = 'nmsrfm'
 
 include 'common'
 include 'fabric'
