@@ -184,6 +184,11 @@ local.properties
 *.war
 *.ear
 
+#gradle ignore
+.gradle/
+build/
+!gradle-wrapper.jar
+
 # End of https://www.toptal.com/developers/gitignore/api/intellij,macos,windows
 ./.gradle
 ./*/.gradle
