@@ -190,7 +190,8 @@ build/
 !gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,macos,windows
-./.gradle
-./*/.gradle
-./*/build
-./.idea
+.gradle
+*/.gradle
+*/build
+*/run
+.idea
